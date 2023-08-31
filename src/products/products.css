@@ -1,0 +1,12 @@
+.products{
+    display: flex;
+    flex-direction: row;
+}
+
+.products__left{
+    flex: 0.7;
+}
+
+.products__right{
+    flex: 0.3;
+}
